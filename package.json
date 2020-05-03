@@ -1,0 +1,31 @@
+{
+  "name": "react-native-task-description",
+  "version": "1.0.0",
+  "description": "Android TaskDescription setting",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "header",
+    "multitask",
+    "js",
+    "TaskDescription"
+  ],
+  "author": {
+    "name": "Mohsen Madani",
+    "email": "mohsenando@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moh3n9595/react-native-task-description.git"
+  },
+  "homepage": "https://github.com/moh3n9595/react-native-task-descriptions#readme",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
